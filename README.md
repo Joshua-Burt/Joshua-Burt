@@ -1,7 +1,7 @@
 [![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshua-Burt&count_private=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning functional programming with Haskell
-- 🖨 I’m interested in 3D Printing, currently have a Creality LD-006
+- 🖨 I’m interested in 3D Printing, currently using a Creality LD-006 Resin Printer
 
 <!--
 **Joshua-Burt/Joshua-Burt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
