@@ -1,5 +1,6 @@
 Hey! I'm Joshua
 - 🌱 I’m currently learning functional programming with Haskell, and also ReactJS
+- 🐍 Many of my recent projects have been based in Python
 - 🖨 I’m interested in 3D Printing, currently using a Creality LD-006 Resin Printer
 
 [![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshua-Burt&count_private=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
