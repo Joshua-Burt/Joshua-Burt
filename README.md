@@ -2,10 +2,13 @@
 
 - 💼 Open To Job Opportunities
 - 🌱 I’m currently learning functional programming with Haskell, and also ReactJS
-- 🐍 Many of my recent larger projects have been based in Python
+- 🐍 Many of my recent projects have been based in Python
 - 🖨 I’m interested in 3D Printing, currently using a Creality LD-006 Resin Printer
 
-[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshua-Burt&count_private=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+# GitHub Stats
+![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshua-Burt&count_private=true&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)
+<br>
+![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Burt&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <!--
