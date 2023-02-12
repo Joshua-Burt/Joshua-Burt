@@ -1,5 +1,6 @@
 <p align="center"><a href="https://joshuaburt.dev"><img alt="Hello, I'm Joshua." src="./images/Introduction.png"/></a></p>
 
+- 💼 Open To Job Opportunities
 - 🌱 I’m currently learning functional programming with Haskell, and also ReactJS
 - 🐍 Many of my recent larger projects have been based in Python
 - 🖨 I’m interested in 3D Printing, currently using a Creality LD-006 Resin Printer
