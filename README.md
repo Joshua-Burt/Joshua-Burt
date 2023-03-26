@@ -7,7 +7,6 @@
 
 # GitHub Stats
 ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshua-Burt&count_private=true&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)
-<br>
 ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Burt&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
