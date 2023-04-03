@@ -7,7 +7,7 @@
 
 # GitHub Stats
 ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshua-Burt&count_private=true&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)
-![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Burt&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Burt&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=BrightLights&hide=java)
 
 
 <!--
@@ -16,7 +16,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
