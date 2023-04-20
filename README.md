@@ -1,8 +1,8 @@
 <p align="center"><a href="https://joshuaburt.dev"><img alt="Hello, I'm Joshua." src="./images/Introduction.png"/></a></p>
 
 - 💼 Open To Job Opportunities
-- 🌱 I’m currently learning functional programming with Haskell
 - 🐍 Many of my recent projects have been based in Python
+- 🔭 I’m currently working on [BlockBot](https://github.com/Joshua-Burt/BlockBot), the Discord bot based in PyCord
 - 🖨 I’m interested in 3D Printing, currently using a Creality LD-006 Resin Printer
 
 # GitHub Stats
@@ -15,7 +15,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
