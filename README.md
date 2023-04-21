@@ -2,7 +2,7 @@
 
 - 💼 Open To Job Opportunities
 - 🐍 Many of my recent projects have been based in Python
-- 🔭 I’m currently working on [BlockBot](https://github.com/Joshua-Burt/BlockBot), the Discord bot based in PyCord
+- 🔭 I’m currently working on [BlockBot](https://github.com/Joshua-Burt/BlockBot), a Discord bot based in PyCord
 - 🖨 I’m interested in 3D Printing, currently using a Creality LD-006 Resin Printer
 
 # GitHub Stats
